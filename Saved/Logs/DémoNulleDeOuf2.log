@@ -415,3 +415,45 @@ LogInit: Object subsystem initialized
 [2018.07.03-07.24.42:298][715]LogWindows: Warning: URL: "E:\Program Files\Git\git-bash.exe version
 [2018.07.03-07.24.46:123][951]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2018.07.03-07.26.12:875][653]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.07.03-07.47.52:716][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.47.54:000][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.03-07.47.57:788][824]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.07.03-07.47.57:788][824]LogWindows: Warning: URL: git.exe version
+[2018.07.03-07.47.59:151][985]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.07.03-07.47.59:151][985]LogWindows: Warning: URL: git.exe version
+[2018.07.03-07.47.59:154][985]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.07.03-07.50.50:654][ 86]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.07.03-07.50.50:654][ 86]LogWindows: Warning: URL: E:\Program Files\Git\cmd version
+[2018.07.03-07.50.50:695][ 91]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2018.07.03-07.50.50:695][ 91]LogWindows: Warning: URL: E:\Program Files\Git\cmd version
+[2018.07.03-07.50.50:695][ 91]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2018.07.03-07.51.02:278][375]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.03-07.51.20:475][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.51.27:345][914]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.19/Engine/Content: 'E:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.03-07.51.27:499][914]EditorErrors: Warning: No assets to check in!
+[2018.07.03-07.51.30:605][278]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.51.36:680][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.51.37:080][983]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.51.38:429][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.51.43:662][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.51.44:203][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.51.49:869][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.51.56:591][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-07.52.16:895][672]LogRenderer: Reallocating scene render targets to support 1208x588 Format 10 NumSamples 1 (Frame:12430).
+[2018.07.03-08.14.48:140][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.03-08.22.25:273][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.03-09.12.29:601][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-09.12.33:799][486]SourceControl: fatal: E:/Program Files/Epic Games/UE_4.19/Engine/Content: 'E:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.07.03-09.12.33:960][486]EditorErrors: Warning: No assets to check in!
+[2018.07.03-09.12.36:158][742]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-09.12.36:816][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-09.12.43:548][595]LogSlate: Window 'Source Control Login' being destroyed
+[2018.07.03-09.12.47:127][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.03-09.12.47:471][ 32]LogSlate: Took 0.007359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.03-09.12.47:496][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.03-09.12.48:393][ 32]LogSavePackage: Save=736.05ms
+[2018.07.03-09.12.48:393][ 32]LogSavePackage: Moving '../../../../../../CECI EST UN JEU/DémoNulleDeOuf2/Saved/2DSideScrollerExampleMap3DED73E94E5963652D259BA03E2272DD.tmp' to '../../../../../../CECI EST UN JEU/DémoNulleDeOuf2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2018.07.03-09.12.48:482][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../CECI EST UN JEU/DémoNulleDeOuf2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap
+[2018.07.03-09.12.48:650][ 32]LogSavePackage: Save=1.56ms
+[2018.07.03-09.12.48:650][ 32]LogSavePackage: Moving '../../../../../../CECI EST UN JEU/DémoNulleDeOuf2/Saved/2DSideScrollerExampleMap_BuiltDa0359FDA548E5CB7F8473A896ADD4867C.tmp' to '../../../../../../CECI EST UN JEU/DémoNulleDeOuf2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2018.07.03-09.12.48:650][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../CECI EST UN JEU/DémoNulleDeOuf2/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset
